@@ -1,0 +1,9 @@
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\bin\Debug\netstandard2.1\ServingDataTheRightWay.Data.deps.json
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\bin\Debug\netstandard2.1\ServingDataTheRightWay.Data.dll
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\bin\Debug\netstandard2.1\ServingDataTheRightWay.Data.pdb
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.csprojAssemblyReference.cache
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.AssemblyInfoInputs.cache
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.AssemblyInfo.cs
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.csproj.CoreCompileInputs.cache
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.dll
+D:\Code\serving-data-the-right-way\ServingDataTheRightWay.Data\obj\Debug\netstandard2.1\ServingDataTheRightWay.Data.pdb
