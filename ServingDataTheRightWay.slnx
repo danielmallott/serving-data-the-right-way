@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ServingDataTheRightWay.Data/ServingDataTheRightWay.Data.csproj" />
+  <Project Path="ServingDataTheRightWay.Web.Api/ServingDataTheRightWay.Web.Api.csproj" />
+  <Project Path="ServingDataTheRightWay.Web/ServingDataTheRightWay.Web.csproj" />
+</Solution>
