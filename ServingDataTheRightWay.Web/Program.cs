@@ -12,7 +12,6 @@ using Serilog.Exceptions;
 using Serilog.Exceptions.Core;
 using Serilog.Exceptions.Destructurers;
 using Serilog.Exceptions.EntityFrameworkCore.Destructurers;
-using Serilog.Exceptions.SqlServer.Destructurers;
 using Serilog.Extensions.Logging;
 using Serilog.Formatting.Compact;
 using Serilog.Sinks.SystemConsole.Themes;
@@ -33,7 +32,6 @@ namespace ServingDataTheRightWay.Web
                     .WithDefaultDestructurers()
                     .WithDestructurers(new ExceptionDestructurer[]
                     {
-                        new SqlExceptionDestructurer(), 
                         new DbUpdateExceptionDestructurer()
                     })
                 )
